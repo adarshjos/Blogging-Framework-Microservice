@@ -29,6 +29,6 @@ build/
 
 ### VS Code ###
 .vscode/
-logFramework/*
+logFramework/logs/*
 shoutOut-Backend/shoutOutBacnEnd/*
 .DS_Store
